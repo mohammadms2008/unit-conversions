@@ -1,6 +1,6 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "semose/unit-conversions",
+    "description": "perform unit conversions",
     "keywords": [
         ":vendor_name",
         ":package_name"
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Mohamad Seyedi",
+            "email": "mohamad_seyedi92@yahoo.com",
             "role": "Developer"
         }
     ],
